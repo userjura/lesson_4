@@ -1,0 +1,14 @@
+@import url(reset.css);
+
+.links {
+ color: tomato;
+}
+.link {
+ color:hotpink;
+}
+.main {
+ color:royalblue;
+}
+.title {
+ color:darkred;
+}
